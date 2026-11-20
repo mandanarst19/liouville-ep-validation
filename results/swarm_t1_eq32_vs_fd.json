@@ -1,0 +1,9 @@
+{
+ "max_abs_diff_Eq32_vs_FD": 1.228805331265903e-06,
+ "mean_div_FD": -194.211691960468,
+ "mean_div_Eq32": -194.21169192961682,
+ "mean_Na": 1.636,
+ "min_Na": 0,
+ "max_Na": 7,
+ "driver_contributes_to_divergence_max_abs": 1.2105872144729801e-06
+}
